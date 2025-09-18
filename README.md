@@ -1,7 +1,7 @@
 <h1 align="center"> Challenge-Amigo-Secreto </h1>
     <h1> Descripción:</h1>
    
-Este proyecto en desarrollo de la aplicación de "sorteo de amigo" es una aplicación web interativa que permite a los usurios organizar un sorteo "amigo secreto" de forma simple y visualmente atractiva.
+Este proyecto en ejecución de la aplicación de "sorteo de amigo" es una aplicación web interativa que permite a los usurios organizar un sorteo "amigo secreto" de forma simple y visualmente atractiva.
 
 Cuenta con un fondo animado y una interfaz moderna que se adapta a cualquier tipo de dispositivos.
 
