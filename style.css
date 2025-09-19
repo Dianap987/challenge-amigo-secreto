@@ -1,10 +1,10 @@
 :root {
-    --color-primary: #4B69FD;
+    --color-primary: #fd4bf4;
     --color-secondary: #FFF9EB;
     --color-tertiary: #C4C4C4;
-    --color-button: #fe652b;
-    --color-button-hover: #e55720;
-    --color-text: #444444;
+    --color-button: #fe2bdb;
+    --color-button-hover: hsl(143, 79%, 51%);
+    --color-text: #e90707;
     --color-white: #FFFFFF;
 }
 
@@ -160,3 +160,83 @@ ul {
 .button-draw:hover {
     background-color: var(--color-button-hover);
 }
+/* Ajustes para pantallas móviles */
+@media (max-width: 768px) {
+    /* Título principal */
+    .main-title {
+        font-size: 28px;   /* Reducido para que quepa */
+        text-align: center;
+        padding: 10px;
+    }
+
+    /* Header más compacto */
+    .header-banner {
+        padding: 20px 0 0;
+        flex-direction: column; /* Texto encima de la imagen */
+    }
+
+    /* Sección tipo tarjeta */
+    .input-section {
+        background-color: var(--color-white);
+        border-radius: 20px;
+        padding: 20px;
+        margin: 10px;
+        box-shadow: 0 4px 10px rgba(0,0,0,0.15);
+    }
+
+    /* Input y botón */
+    .input-wrapper {
+        flex-direction: column; /* Input arriba y botón abajo */
+        align-items: center;
+        gap: 10px;
+        width: 100%;
+    }
+
+    .input-title, 
+    .button-add {
+        border-radius: 10px;
+        font-size: 16px;
+        box-shadow: none;
+        width: 100%;
+    }
+
+    .input-title {
+        border: 1px solid #ccc;
+    }
+
+    .button-add {
+        background-color: var(--color-primary);
+        color: var(--color-white);
+        border: none;
+        transition: background 0.3s ease;
+    }
+
+    .button-add:hover {
+        background-color: var(--color-button);
+    }
+
+    /* Botón principal */
+    .button-draw {
+        border-radius: 12px;
+        margin-top: 15px;
+        font-size: 18px;
+        padding: 15px;
+        justify-content: center;
+        width: 100%;
+    }
+
+    /* Textos más compactos */
+    .section-title {
+        font-size: 22px;
+        padding: 0 10px;
+    }
+
+    ul {
+        font-size: 16px;
+    }
+
+    .result-list {
+        font-size: 18px;
+    }
+}
+
