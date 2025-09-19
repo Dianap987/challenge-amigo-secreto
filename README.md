@@ -1,5 +1,6 @@
-<h1 align="center"> Challenge-Amigo-Secreto </h1>
-    <h1>:black_nib: Descripción:</h1>
+<h1 align="center"> :tada: Challenge-Amigo-Secreto :tada: </h1>
+
+   <h1>:black_nib: Descripción:</h1>
    
 Este proyecto es una practica de ejecución de la aplicación "sorteo de amigo" es una aplicación web interativa que permite a los usurios organizar un sorteo "amigo secreto" de forma simple y visualmente atractiva.
 
