@@ -31,7 +31,7 @@ Cuenta con un fondo animado y una interfaz moderna que se adapta a cualquier tip
 <h1>:game_die: ¿cómo funciona la aplicación?</h1>
 
 
-:one: Ingresa al link
+:one: Ingresa al link https://dianap987.github.io/challenge-amigo-secreto/
 
 :two: Digita un nombre y oprime el boton añadir
 
