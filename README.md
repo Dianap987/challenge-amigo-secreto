@@ -23,17 +23,26 @@ Cuenta con un fondo animado y una interfaz moderna que se adapta a cualquier tip
 
  <h1> Tecnologías utilizadas:</h1>
  
- - `HTML 5`
-- `CSS`: (Con diseño responsivo)
-- `JavaScript`: (lógica de sorteo)
+ - `HTML 5`.
+- `CSS`: (Con diseño responsivo).
+- `JavaScript`: (lógica de sorteo).
 
-<h1> :video_game: ¿Cómo Funciona El Programa?
-:one: Ingresas al link 
-:two: Escribe minimo dos nombres difentes. 
-:three: Puede evidenciar la ista en parte inferior de los nombre registrados.
-:four: Despues oprime el boton "sortear amigo".
-:five: Finalmente el sistema seleciona el nombre del "amigo secreto".
-    
+<h1>:game_die: ¿cómo funciona la aplicación?</h1>
+
+
+:one: Ingresa al link
+
+:two: Digita un nombre y oprime el boton añadir
+
+:three: Digita minimo dos nombres diferentes.
+
+:four: En la parte inferior observa los nombres registrados.
+
+:five: Déspues oprime el botón "sortear amigo".
+
+:six: Finalmente el sistema selecciona el nombre del "Amigo secreto".
+
+   
  <h1> Creditos:</h1>
  Desarrollado por: <H1>Diana Pulido</H1>
  Proyecto realizado como parte del desafio del programa: <H1>ONE-OracleNext Education+Alura latam</H1>
